@@ -1,4 +1,7 @@
-/* fenwick tree */
+/* 
+    fenwick tree 
+    1-indexed array 
+*/
 template<typename T>
 struct FenwickTree{
    vector<T> bit;
